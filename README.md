@@ -16,7 +16,7 @@ Creation of my own library (libft.a) with standard C functions, as well as some 
 </p>
 
 #### Functions to replicate
-• isalpha
+• [isalpha](https://github.com/hecikmc/libft-42cursus/blob/main/ft_isalpha.c)
 • isdigit
 • isalnum
 • isascii
