@@ -5,9 +5,9 @@ Creation of my own library (libft.a) with standard C functions, as well as some 
 
 <img width="1091" alt="Screen Shot 2023-03-15 at 1 48 55 PM" src="https://user-images.githubusercontent.com/121127625/225686669-c84e2168-3e6e-4fc3-885b-7d0c2253a7fc.png">
 
-* Project developed in C languaje
-* The project compiles with the 'norma' (Norminette)
-* Makefile is included which compiles the files source to the required output (.a) with the -Wall, -Werror and -Wextra flags
+* Project developed in C language.
+* The project compiles with the 'norma' (Norminette).
+* Makefile is included which compiles the files source to the required output (.a) with the -Wall, -Werror and -Wextra flags.
 
 ## Mandatory part
 
