@@ -51,4 +51,24 @@ Creation of my own library (libft.a) with standard C functions, as well as some 
 • [ft_putendl_fd](https://github.com/hecikmc/libft-42cursus/blob/main/ft_putendl_fd.c)
 • [ft_putnbr_fd](https://github.com/hecikmc/libft-42cursus/blob/main/ft_putnbr_fd.c)
 
+## Bonus part
 
+The bonus rule created in the Makefile allows to compile the functions to manipulate linked lists.
+The defnition of the struct is:
+<p align="center">
+  <img width="288" alt="Screen Shot 2023-03-16 at 6 05 58 PM" src="https://user-images.githubusercontent.com/121127625/225697467-b31a601a-62e8-40e8-a6d2-f1545a043612.png">
+</p>
+
+All the bonus functions are named like ft_function_bonus.c
+
+#### Functions to replicate
+
+• [ft_lstnew](https://github.com/hecikmc/libft-42cursus/blob/main/ft_lstnew_bonus.c)
+• [ft_lstadd_front](https://github.com/hecikmc/libft-42cursus/blob/main/ft_lstadd_front.c)
+• [ft_lstsize](https://github.com/hecikmc/libft-42cursus/blob/main/ft_lstsize.c)
+• [ft_lstlast](https://github.com/hecikmc/libft-42cursus/blob/main/ft_lstlast.c)
+• [ft_lstadd_back](https://github.com/hecikmc/libft-42cursus/blob/main/ft_lstadd_back.c)
+• [ft_lstdelone](https://github.com/hecikmc/libft-42cursus/blob/main/ft_lstdelone.c)
+• [ft_lstclear](https://github.com/hecikmc/libft-42cursus/blob/main/ft_lstclear.c)
+• [ft_lstiter](https://github.com/hecikmc/libft-42cursus/blob/main/ft_lstiter.c)
+• [ft_lstmap](https://github.com/hecikmc/libft-42cursus/blob/main/ft_lstmap.c)
