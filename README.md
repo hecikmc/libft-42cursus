@@ -3,6 +3,10 @@
 ## Description 
 Creation of my own library (libft.a) with standard C functions, as well as some additional useful functions.
 
+<p align="center">
+<img width="450" alt="Screen Shot 2023-03-15 at 1 48 55 PM" src="https://github.com/hecikmc/libft-42cursus/assets/121127625/c7ac0ded-2fc5-40fe-ba39-dbd8aee806d8">
+</p>
+
 <img width="1091" alt="Screen Shot 2023-03-15 at 1 48 55 PM" src="https://user-images.githubusercontent.com/121127625/225686669-c84e2168-3e6e-4fc3-885b-7d0c2253a7fc.png">
 
 * Project developed in C language.
